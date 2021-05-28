@@ -1,7 +1,9 @@
 ---
 layout: post
-title: A Review of GPT-based Controlled Text Generation Paper
+title: Recent Advances in GPT-based Controlled Text Generation
 ---
+
+This article provides an overview of recent GPT-based controlled text generation papers.
 
 When [GPT-3](https://arxiv.org/abs/2005.14165) came out in last May, people were instantly amazed by its human-like output and striking versatility.
 However, what comes with its superpower of synthesizing text on any topic is that the generated text is often socially non-normative and factually ungrounded, 
